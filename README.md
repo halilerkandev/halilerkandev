@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erkan</h1>
-<h3 align="center">A Web Developer from Turkey</h3>
+<h3 align="center">A Self-taught Web Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halilerkandev&label=Profile%20views&color=0e75b6&style=flat" alt="halilerkandev" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/halilerkandev" target="blank"><img src="https://img.shields.io/twitter/follow/halilerkandev?logo=twitter&style=for-the-badge" alt="halilerkandev" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring**
 
 - 📝 I regularly write articles on [https://www.halilerkan.dev/](https://www.halilerkan.dev/)
 
