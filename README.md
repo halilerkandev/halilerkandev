@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/halilerkandev" target="blank"><img src="https://img.shields.io/twitter/follow/halilerkandev?logo=twitter&style=for-the-badge" alt="halilerkandev" /></a> </p>
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring** <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="15" height="15"/>
 
 - 📝 I regularly write articles on [https://www.halilerkan.dev/](https://www.halilerkan.dev/)
 
