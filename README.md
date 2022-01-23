@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring** <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="15" height="15"/>
 
-- 📝 I regularly write articles on [https://www.halilerkan.dev/](https://www.halilerkan.dev/)
+- 📝 I rarely write articles on [https://www.halilerkan.dev/](https://www.halilerkan.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
